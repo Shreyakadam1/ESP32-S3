@@ -1,4 +1,4 @@
 {
   "Version": "V1.1",
-  "FirmwareURL": "https://192.168.1.50/ota/firmware.bin"
+  "FirmwareURL": "https://raw.githubusercontent.com/Shreyakadam1/ESP32-S3/main/Firmware_Storage-Unit-1/app-template.bin"
 }
